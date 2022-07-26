@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Game Projects and maybe Game Engines**
 
-- 👨‍💻 All of my projects are available at [mij_games.itch.io](My Itch.io Page)
+- 👨‍💻 All of my projects are available at [My Itch.io Page](mij_games.itch.io)
 
 - 📫 How to reach me **ishaquejunejo33@gmail.com**
 
