@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ishaque Junejo (MIJ)</h1>
 <h3 align="center">A passionate programmer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mijgames&label=Profile%20views&color=0e75b6&style=flat" alt="mijgames" /> </p>
+
 <p align="left"> <a href="https://twitter.com/mij_games" target="blank"><img src="https://img.shields.io/twitter/follow/mij_games?logo=twitter&style=for-the-badge" alt="mij_games" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Game Projects and maybe Game Engines**
