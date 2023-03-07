@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Itch.io Page](mij_games.itch.io)** and **[My Github Profile](https://github.com/MIJGames)**
 
-- 📫 How to reach me **ishaquejunejo33@gmail.com**
+- 📫 How to reach me **ishaque.junejo.dev@gmail.com**
 
 - ⚡ Fun fact **I am also a Pixel Artist**
 
@@ -32,4 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mijgames&show_icons=true&locale=en&layout=compact" alt="mijgames" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mijgames&show_icons=true&locale=en" alt="mijgames" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mijgames&" alt="mijgames" /></p>
+
