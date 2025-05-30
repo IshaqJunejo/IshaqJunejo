@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **[Neural-Network](https://github.com/IshaqJunejo/project-neural-network)**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**
 
 - 👯 Looking to collaborate on **Open Source**
 
-- 👨‍💻 My projects are available at **[GitHub](https://github.com/IshaqJunejo)** and **[Portfolio](ishaqjunejo.github.io)**.
+- 👨‍💻 My projects are available at **[GitHub](https://github.com/IshaqJunejo)** and **[Portfolio](https://ishaqjunejo.github.io)**
 
 - 📫 You can reach me at **ishaque.junejo.dev@gmail.com**
 
@@ -24,8 +24,8 @@
 ## Languages and Tools:
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="python" width="40" height="40"/>
-<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="40" height="40"/></br>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></br>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
