@@ -3,21 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaqjunejo&label=Profile%20views&color=0e75b6&style=flat" alt="Ishaque Junejo" /> </p>
 
-- 🔭 I’m currently working on **[Lemon Disease Detector](https://github.com/IshaqJunejo/Lemon-Disease-Detector)**
+- 🔭 I’m currently working on **[MehranLM](https://github.com/IshaqJunejo/MehranLM/)** - A Sindhi language model
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning**
 
-- 👯 Looking to collaborate on **Open Source**
+- 👯 Looking to collaborate on **Linux Tools**, **ML Libraries**, and **ML Projects**
 
 - 👨‍💻 My projects are available at **[GitHub](https://github.com/IshaqJunejo)** and **[Portfolio](https://ishaqjunejo.github.io)**
 
-- 📫 You can reach me at **ishaque.junejo.dev@gmail.com**
+- 📫 You can reach me at **[ishaque.junejo.dev@gmail.com](mailto:ishaque.junejo.dev+git@gmail.com)**
 
 
 ## Connect with me:
 <p>
 <a href="https://www.linkedin.com/in/ishaque-junejo/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"></a> 
+
 <a href="https://x.com/mij_games"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"></a>
+
 <a href="https://www.youtube.com/@mij_games"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"></a>
 </p>
 
