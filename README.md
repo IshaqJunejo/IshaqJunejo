@@ -17,9 +17,7 @@
 ## Connect with me:
 <p>
 <a href="https://www.linkedin.com/in/ishaque-junejo/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"></a> 
-
 <a href="https://x.com/mij_games"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"></a>
-
 <a href="https://www.youtube.com/@mij_games"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"></a>
 </p>
 
